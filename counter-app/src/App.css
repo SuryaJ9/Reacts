@@ -1,0 +1,26 @@
+div{
+  border:2px solid blue;
+  width:300px;
+  height:40vh;
+  border-radius: 2px;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+}
+body{
+  height:400vh;
+  align-content: center;
+  justify-content: center;
+  display:flex;
+}
+input{
+  height:5vh;
+  border-radius: 15px;
+  padding:7px;
+  margin:5px;
+}
+input:hover{
+  background-color:yellowgreen;
+  color:red;
+  animation-duration: 2ms;
+}
